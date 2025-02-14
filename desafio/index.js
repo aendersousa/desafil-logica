@@ -1,1 +1,2 @@
-console.log("helow")
+let nome = ("Aender")
+console.log(nome)
