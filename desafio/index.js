@@ -1,2 +1,2 @@
-let nome = ("Aender")
+let nome = "Aender"
 console.log(nome)
